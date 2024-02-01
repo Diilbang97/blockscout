@@ -6,6 +6,8 @@
 
 ### Fixes
 
+- [#9306](https://github.com/blockscout/blockscout/pull/9306) - Improve marking of failed internal transactions
+
 ### Chore
 
 - [#9303](https://github.com/blockscout/blockscout/pull/9303) - Add workflow for Shibarium
